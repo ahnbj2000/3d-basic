@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 3600,
+    "files": [
+        "./dist/**/*.{html,htm,css,js}"
+    ],
+    "server": {
+        "baseDir": "./"
+    },
+    "startPath": "./samples/index.html"
+}
